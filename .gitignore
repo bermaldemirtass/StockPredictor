@@ -1,0 +1,7 @@
+venv/
+*.csv
+*.png
+*.dylib
+*.so
+__pycache__/
+
